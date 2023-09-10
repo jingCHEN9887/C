@@ -6,3 +6,5 @@
 [【C 語言入門】19.4 - 使用 sizeof 求陣列長度](https://hackmd.io/hyEK6ydtSHyZF2YWIDaByg)
 
 [【C 語言入門】19.5 - 用保留值標記陣列長度](https://hackmd.io/@JingCH1998/BJL9CyjRn)
+
+[並發、並行、異步、同步的區別](https://hackmd.io/@JingCH1998/S1fuBljR2)
